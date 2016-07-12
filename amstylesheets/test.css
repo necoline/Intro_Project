@@ -1,0 +1,26 @@
+
+header{
+  background-color: green;
+  text-align: center;
+}
+section{
+  background-color: gray;
+  text-align: center;
+  display:block;
+  margin: 0 1.5%
+  width: 30%;
+  font-family: Verdana;
+  font-variant: small-caps;
+}
+aside{
+  background-color: pink;
+  text-align: center;
+  display: block;
+  float: right;
+  margin: 01.5%;
+  width:30%;
+}
+footer{
+  background-color: purple;
+  clear: both;
+}
